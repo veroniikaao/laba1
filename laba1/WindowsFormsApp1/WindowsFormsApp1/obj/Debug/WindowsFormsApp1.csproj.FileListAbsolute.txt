@@ -9,3 +9,14 @@ C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабо�
 C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\лаба иип1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\лаба иип1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\лаба иип1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\иип\laba1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\иип\laba1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\иип\laba1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\иип\laba1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\иип\laba1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\иип\laba1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\иип\laba1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\иип\laba1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\иип\laba1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\иип\laba1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Вероника\OneDrive - FGBOU VPO Tyumen State University\Рабочий стол\иип\laba1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
